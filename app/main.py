@@ -1,5 +1,9 @@
 """Streamlit UI: вопрос -> найденные фрагменты -> ответ -> источники."""
 
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
 import streamlit as st
 
 from app.config import VECTORIZER_PATH

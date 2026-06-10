@@ -1,5 +1,9 @@
 """Проверка demo-ответа и отказа из консоли (итерация 6)."""
 
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
 from app.generator import generate_answer
 from app.retriever import load_index, search
 

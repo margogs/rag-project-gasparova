@@ -3,6 +3,10 @@
 Добавляет метаданные: doc_id, name, source_file.
 """
 
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
 import json
 
 from app.config import DOCUMENTS_JSONL, PROCESSED_DIR, RAW_DATASETS
