@@ -37,12 +37,18 @@ uv run streamlit run app/main.py
 
 ## Demo-вопросы
 
-| Вопрос | Ожидание |
-|--------|----------|
-| immune shot with vitamin C and zinc | ответ, источник sample-01, score > 0.4 |
-| energy shot with B vitamins | ответ, источник sample-04 |
-| magnesium shot for stress and sleep | ответ, источник sample-06 |
-| how to change a car tire | отказ (нет данных) |
+Результаты на реальной базе DSLD (1500 шотов, 4943 чанка). Скриншоты — в `doc/screenshots/`.
+
+| Вопрос | Результат | Топ-источник | score |
+|--------|-----------|--------------|-------|
+| immune shot with vitamin C and zinc | ответ | `dsld-337258` Sambucus Elderberry Immune Shot (Nature's Way) | 0.4825 |
+| energy shot with B vitamins | ответ | `dsld-8517` Shot-of-Energy (Bronson) | 0.4067 |
+| magnesium shot for stress and sleep | ответ | `dsld-35844` Super Stress With Vitamin C (The Vitamin Shoppe) | 0.4320 |
+| how to change a car tire | отказ (нет данных) | — | 0.0000 |
+
+> На «magnesium shot for stress and sleep» поиск цепляется за слово *stress*, а не за
+> *magnesium* — наглядная иллюстрация ограничения TF-IDF (поиск по словам, не по смыслу).
+> См. `IMPROVEMENTS.md`.
 
 ## Проверка из консоли
 
