@@ -1,0 +1,76 @@
+{
+  "datasets": [
+    {
+      "id": "sample-01",
+      "name": "Immune Defense Shot",
+      "text": "Immune Defense Shot (brand: SampleBrand). Form: Liquid shot, 60 ml.\n\nIngredients: Vitamin C 1000 mg; Zinc 15 mg.\n\nLabel claim: supports immune function.",
+      "source": "https://dsld.od.nih.gov/label/sample-01"
+    },
+    {
+      "id": "sample-02",
+      "name": "Ginger Turmeric Shot",
+      "text": "Ginger Turmeric Shot (brand: SampleBrand). Form: Liquid shot, 59 ml.\n\nIngredients: Ginger extract 500 mg; Turmeric 400 mg; Black pepper extract 5 mg.\n\nLabel claim: supports digestion and a healthy inflammatory response.",
+      "source": "https://dsld.od.nih.gov/label/sample-02"
+    },
+    {
+      "id": "sample-03",
+      "name": "Vitamin D3 K2 Shot",
+      "text": "Vitamin D3 K2 Shot (brand: SampleBrand). Form: Liquid shot, 30 ml.\n\nIngredients: Vitamin D3 2000 IU; Vitamin K2 100 mcg.\n\nLabel claim: supports bone health and immunity.",
+      "source": "https://dsld.od.nih.gov/label/sample-03"
+    },
+    {
+      "id": "sample-04",
+      "name": "B-Complex Energy Shot",
+      "text": "B-Complex Energy Shot (brand: SampleBrand). Form: Liquid shot, 60 ml.\n\nIngredients: Vitamin B1 1.5 mg; Vitamin B2 1.7 mg; Niacin 20 mg; Vitamin B6 2 mg; Vitamin B12 6 mcg.\n\nLabel claim: supports energy metabolism and the nervous system.",
+      "source": "https://dsld.od.nih.gov/label/sample-04"
+    },
+    {
+      "id": "sample-05",
+      "name": "Focus Shot L-Theanine Caffeine",
+      "text": "Focus Shot (brand: SampleBrand). Form: Liquid shot, 60 ml.\n\nIngredients: L-Theanine 200 mg; Caffeine from green tea 100 mg.\n\nLabel claim: supports focus and alertness.",
+      "source": "https://dsld.od.nih.gov/label/sample-05"
+    },
+    {
+      "id": "sample-06",
+      "name": "Magnesium Calm Shot",
+      "text": "Magnesium Calm Shot (brand: SampleBrand). Form: Liquid shot, 60 ml.\n\nIngredients: Magnesium glycinate 200 mg.\n\nLabel claim: supports relaxation, sleep and muscle function.",
+      "source": "https://dsld.od.nih.gov/label/sample-06"
+    },
+    {
+      "id": "sample-07",
+      "name": "Ashwagandha Stress Shot",
+      "text": "Ashwagandha Stress Shot (brand: SampleBrand). Form: Liquid shot, 60 ml.\n\nIngredients: Ashwagandha KSM-66 600 mg.\n\nLabel claim: adaptogen, supports stress resilience.",
+      "source": "https://dsld.od.nih.gov/label/sample-07"
+    },
+    {
+      "id": "sample-08",
+      "name": "Recovery NAC Electrolyte Shot",
+      "text": "Recovery Shot (brand: SampleBrand). Form: Liquid shot, 100 ml.\n\nIngredients: N-Acetyl Cysteine 600 mg; Vitamin B1 50 mg; Electrolytes (sodium, potassium, magnesium).\n\nLabel claim: supports hydration and recovery.",
+      "source": "https://dsld.od.nih.gov/label/sample-08"
+    },
+    {
+      "id": "sample-09",
+      "name": "Electrolyte Hydration Shot",
+      "text": "Electrolyte Hydration Shot (brand: SampleBrand). Form: Liquid shot, 100 ml.\n\nIngredients: Sodium 200 mg; Potassium 200 mg; Magnesium 60 mg; Chloride 300 mg.\n\nLabel claim: supports hydration during sport.",
+      "source": "https://dsld.od.nih.gov/label/sample-09"
+    },
+    {
+      "id": "sample-10",
+      "name": "Marine Collagen Beauty Shot",
+      "text": "Marine Collagen Beauty Shot (brand: SampleBrand). Form: Liquid shot, 50 ml.\n\nIngredients: Marine collagen 5000 mg; Vitamin C 80 mg.\n\nLabel claim: supports skin and joints.",
+      "source": "https://dsld.od.nih.gov/label/sample-10"
+    },
+    {
+      "id": "sample-11",
+      "name": "Rhodiola Ginseng Energy Shot",
+      "text": "Rhodiola Ginseng Shot (brand: SampleBrand). Form: Liquid shot, 60 ml.\n\nIngredients: Rhodiola rosea 200 mg; Panax ginseng 100 mg.\n\nLabel claim: adaptogens, support endurance.",
+      "source": "https://dsld.od.nih.gov/label/sample-11"
+    },
+    {
+      "id": "sample-12",
+      "name": "Elderberry Echinacea Shot",
+      "text": "Elderberry Echinacea Shot (brand: SampleBrand). Form: Liquid shot, 60 ml.\n\nIngredients: Elderberry extract 1000 mg; Echinacea 200 mg; Vitamin C 100 mg.\n\nLabel claim: supports immune defense.",
+      "source": "https://dsld.od.nih.gov/label/sample-12"
+    }
+  ]
+}
